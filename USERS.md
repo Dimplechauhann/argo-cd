@@ -97,6 +97,7 @@ Currently, the following organizations are **officially** using Argo CD:
 1. [enigmo](https://enigmo.co.jp/)
 1. [Envoy](https://envoy.com/)
 1. [Factorial](https://factorialhr.com/)
+2. [Factspan](https://www.factspan.com/)
 1. [Farfetch](https://www.farfetch.com)
 1. [Faro](https://www.faro.com/)
 1. [Fave](https://myfave.com)
